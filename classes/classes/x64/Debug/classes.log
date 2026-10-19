@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\dnjun\source\repos\classes\classes\Source.cpp(8,70): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\dnjun\source\repos\classes\classes\Source.cpp(13,73): warning C4305: 'argument': truncation from 'double' to 'float'
-  classes.vcxproj -> C:\Users\dnjun\source\repos\classes\x64\Debug\classes.exe
